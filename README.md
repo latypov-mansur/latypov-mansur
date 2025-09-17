@@ -6,7 +6,7 @@
 Подробное описание проекта: https://github.com/latypov-mansur/Dashboard_Cross-section-of-real-estate-ads.git  
 3. Социальны проект "Обзор ДТП 2019-2024".    
 Данные проекта «Карта ДТП» о дорожно-транспортных происшествиях в России и их характеристиках.  
-Ссылка на дэш-борд: https://datalens.yandex/i3fpk2qhvq6s4
+Ссылка на дэш-борд: https://datalens.yandex/i3fpk2qhvq6s4  
 Подробное описание работы с БД: https://github.com/latypov-mansur/DTP_DF_base_2019-2024.git
 5. Аналитика выручки по данным Яндекс Афиши. Учебная работа.  
 Ссылка на дэш-борд: https://datalens.yandex/pm4bvj70pcfsa

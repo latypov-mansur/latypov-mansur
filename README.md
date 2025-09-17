@@ -1,6 +1,6 @@
 ## 
 
-### Дэш-борды.
+### Портфолио 
 1. Дэш-борд объявлений о продаже загородной недвижимости за 7 сентября 2025 года. Работа не для коммерческих целей.  
 Ссылка на дэш-борд: https://datalens.yandex/015n55zwexoql  
 Подробное описание проекта: https://github.com/latypov-mansur/Dashboard_Cross-section-of-real-estate-ads.git  

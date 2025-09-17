@@ -17,8 +17,6 @@
 6. Дэш-борд для агентства недвижимости (2 вкладка). Учебная работа.   
 Ссылка на дэш-борд: https://datalens.yandex/owqecugaz7fka  
 
-
-
 <!--
 **latypov-mansur/latypov-mansur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
